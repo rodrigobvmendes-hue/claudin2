@@ -49,6 +49,8 @@ SEEN: set[str] = {
     "gone girl",
     "inception",
     "parasite",
+    "reptile",      # visto — suspense fraco
+    "glass onion",  # visto — ok
 }
 
 CATALOG: list[Movie] = [
