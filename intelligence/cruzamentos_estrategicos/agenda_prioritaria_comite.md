@@ -17,6 +17,8 @@
 ## 3. Racional estratégico
 - **Fato**: há projetos internos avançados e bases com restrições operacionais e de contrato.
 - **Dado normalizado**: Santa Maria é uma alternativa comercial, não um projeto CAPEX; Itajaí segue como solução greenfield com foco Grupo Ávila; Guarulhos+ é uma fortaleza estratégica.
+- **Direcionamento manual / análise derivada**: Duque de Caxias deve ser tratado como dependência crítica de S10/Raízen, com custos adicionais de frete/armazenagem e potencial interligação direta futura ao S10, preservando o duto atual para Marítimo.
+- **Direcionamento manual / análise derivada**: Guamaré deve ser registrado como perda de área de influência, redução de movimentação ALE, saída da Raízen como sinal de problema estrutural, aumento da venda direta de outros estados e risco adicional de impacto pela entrada de Pecém.
 - **Análise derivada**: priorizar frentes estruturais aumenta a resistência do portfólio e evita decisões descontínuas por projeto.
 
 ## 4. Risco de postergação
@@ -25,11 +27,13 @@
 - **Goiânia / Nexta**: demora compromete captura de volume e implementação estrutural.
 - **Guarulhos+**: atraso reduz a janela de monetização enquanto players mantêm interesse.
 - **São José do Rio Preto**: sem ação, o déficit crítico permanece em holding.
+- **Duque de Caxias**: deixar de avaliar a interligação direta e o custo de S10/Raízen aumenta o risco de continuidade dependente.
+- **Guamaré**: perda de área de influência e saída da Raízen ampliam o risco de deterioração estrutural e impacto adicional pela entrada de Pecém.
 - **Transição S500 -> S10**: ignorar o tema pode levar a decisões reativas sobre dutos e produto marítimo.
 
 ## 5. Dependências críticas
 - Formalização ANP para **Açailândia / LEM**.
-- Contrato de cessão de espaço e duto em **Duque de Caxias**.
+- Dependência crítica de S10 via contrato de cessão de espaço com a Raízen em **Duque de Caxias**; custo adicional de frete e armazenagem; possibilidade futura de interligação direta para S10; preservação do duto atual para Marítimo.
 - Definição de modelo de **Vitória** (Atlântica vs SPE).
 - Acordo de condôminas e IPP em **Guarulhos+**.
 - Termos do arrendamento e a solução de tanques de **Goiânia / Nexta**.
@@ -41,6 +45,8 @@
 - Apresentar opções de Vitória entre **Atlântica** e **SPE**.
 - Submeter o modelo de **Guarulhos+ mega-bundling** e os parceiros prioritários.
 - Incluir na pauta a continuidade do monitoramento de **Pecém greenfield** e de **Santa Maria** como alternativa comercial.
+- Incluir análise de **Duque de Caxias** sobre S10/Raízen, custo adicional de frete/armazenagem e potencial interligação direta.
+- Incluir observação de **Guamaré** sobre perda de área de influência, saída da Raízen, redução de movimentação ALE e risco adicional pela entrada de Pecém.
 - Registrar como item de acompanhamento a transição **S500 -> S10**.
 
 ## 7. Versão forte da agenda
