@@ -13,6 +13,19 @@ Este documento lista temas e questões que precisam de aprofundamento para mante
 - Quais riscos de atraso ou cancelamento têm maior probabilidade de alterar o cenário competitivo?
 - Onde há oportunidades de posicionamento antecipado para bases, terminais, portos, ferrovias ou dutos?
 
+## Lista inicial de perguntas estratégicas
+
+- Qual é o status atual de cada projeto mapeado no radar (autorizado, licitado, em obra, operacional, anunciado)?
+- Quais projetos têm maior probabilidade de execução nos próximos 0 a 3 anos?
+- Em quais projetos a capacidade anunciada ainda não foi validada por fontes oficiais?
+- Quais projetos podem alterar o acesso a diesel, gasolina, etanol, biodiesel, HVO ou SAF/BioQAV para distribuidoras?
+- Onde há risco de concentração logística ou dependência de um único operador/terminal?
+- Quais projetos têm impacto relevante em custo logístico para as principais rotas de distribuição?
+- Quais players têm maior poder de barganha em cada projeto relevante?
+- Quais informações regulatórias ou de contrato ainda estão faltando para validar o horizonte dos projetos?
+- Quais fontes precisam ser verificadas semanalmente para detectar mudanças de status?
+- Quais lacunas de informação podem gerar cenários de risco ou oportunidades não identificadas?
+
 ## Categorias de investigação
 
 - Status de projeto: autorizado, licitado, em obra, operacional, anunciado.
