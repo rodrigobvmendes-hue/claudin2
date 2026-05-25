@@ -877,10 +877,290 @@ def bloco6():
     story.append(PageBreak())
     return story
 
+# ── BLOCO 7 — FIM DO S500 E CONSOLIDAÇÃO DO S10 ───────────────────────────────
+def bloco7():
+    story = []
+    story += sec("FIM DO DIESEL S500 E CONSOLIDAÇÃO DO S10", "7")
+    story.append(p(
+        "O encerramento da produção de diesel S500 e a dedicação exclusiva ao S10 representa "
+        "uma das maiores mudanças operacionais para distribuidoras e bases de combustíveis "
+        "dos últimos 15 anos. A transição não é apenas regulatória — impacta diretamente "
+        "tancagem, logística, contratos com clientes rurais, infraestrutura de mistura "
+        "biodiesel e a rentabilidade de bases que historicamente operavam volumes relevantes "
+        "de S500 para o agronegócio e uso industrial.", BODY))
+    story.append(sp(0.2))
+
+    story.append(sub("7.1  Contexto Regulatório e Cronograma ANP"))
+    story.append(p(
+        "O diesel S10 (≤10 ppm de enxofre) é o combustível exigido pelos motores Euro 6 "
+        "(PROCONVE P8) e tem sido a referência para vias urbanas e rodovias desde 2012. "
+        "O S500 (≤500 ppm) sobreviveu como alternativa legal para aplicações fora de estrada: "
+        "tratores agrícolas, maquinário de construção, embarcações fluviais e geradores "
+        "estacionários. A ANP (Res. nº 798/2019 e atualizações) vem progressivamente "
+        "restringindo e padronizando as especificações, com trajetória clara de eliminação "
+        "do S500 para uso geral.", BODY))
+    story.append(sp(0.15))
+
+    hdrs_reg = ["Período", "Marco Regulatório / Fato", "Impacto na Cadeia"]
+    widths_reg = [2.5*cm, 8.0*cm, 7.5*cm]
+    rows_reg = [
+        ("2012–2013", "S10 torna-se obrigatório para diesel rodoviário nas regiões Sudeste, Sul, CO e capitais NE/N.",
+         "Bases rodoviárias já adaptadas há mais de 10 anos. S500 relegado ao segmento agrícola/industrial."),
+        ("2019", "ANP Resolução 798/2019 consolida especificações de diesel S10 e S500. PROCONVE P8 (Euro 6) sinalizado para 2022.",
+         "Confirmação de que S10 é o produto-padrão de longo prazo. S500 sem perspectiva de crescimento."),
+        ("2022–2024", "PROCONVE P8 entra em vigor. Novos caminhões e ônibus exigem S10 obrigatoriamente.",
+         "Frota nova 100% S10. S500 perde relevância progressiva no diesel rodoviário. Volume S500 concentra em frotas antigas e uso rural."),
+        ("Jan/2026", "B15 em vigor (biodiesel). ANP intensifica monitoramento de qualidade e restringe comercialização S500 em postos rodoviários.",
+         "Mistura biodiesel B15 é feita sobre base S10. S500 não compõe mandato de mistura obrigatória na cadeia rodoviária."),
+        ("2026–2027 (previsto)", "Encerramento progressivo da produção de S500 nas refinarias Petrobras. Refinarias convertem capacidade para S10.",
+         "Oferta de S500 cai. Distribuidoras que ainda operam S500 precisam definir prazo e rota de transição para S10."),
+        ("2028–2030 (projeção)", "S500 disponível apenas em circuitos restritos (estoque, importação). Mercado brasileiro unificado em S10.",
+         "Tancagem dedicada a S500 precisa ser reconvertida. Clientes rurais migram para S10. Infraestrutura logística simplificada."),
+    ]
+    story.append(make_table(hdrs_reg, rows_reg, widths_reg, small=True))
+    story.append(sp(0.3))
+
+    story.append(sub("7.2  Por Que as Refinarias Estão Abandonando o S500"))
+    temas_refino = [
+        "<b>Investimento em HDS (hidrodessulfurização):</b> produzir S10 exige unidades HDS com maior pressão e temperatura. "
+        "Uma vez investido — como Petrobras fez em REPLAN, REVAP, REPAR, RNEST e REDUC — não há incentivo para "
+        "manter produção paralela de S500. O custo de oportunidade de produzir S500 em refinaria configurada para S10 é zero ou negativo.",
+
+        "<b>Eficiência operacional:</b> manter dois produtos diesel na mesma refinaria (S10 e S500) implica gestão de "
+        "tanques separados, controle de mistura e risco de contaminação. Com o mercado S500 encolhendo, a escala "
+        "não justifica a complexidade operacional.",
+
+        "<b>Pressão regulatória e ESG:</b> enxofre é poluente — emissões de SO₂ formam chuva ácida e material "
+        "particulado (PM2.5). S10 reduz emissões de enxofre em 98% vs. S500. Financiadores (BNDES, bancos "
+        "internacionais) e investidores pressionam Petrobras para eliminar combustíveis de alta emissão.",
+
+        "<b>Alinhamento com biocombustíveis:</b> biodiesel B15→B20→B25 é misturado ao S10. Ter S500 na cadeia "
+        "criaria produto de mistura fora de especificação ou exigiria lotes paralelos de biodiesel S500 — "
+        "operacionalmente inviável em escala. O fim do S500 é pré-requisito para o aumento de mandato de biodiesel.",
+
+        "<b>PROCONVE P8 e frotas novas:</b> qualquer caminhão, ônibus ou máquina fabricada pós-2022 opera "
+        "exclusivamente com S10. A demanda por S500 é estruturalmente declinante — apenas estoque de máquinas antigas.",
+    ]
+    for t in temas_refino:
+        story.append(Paragraph(f"▸  {t}", BULLET_S))
+        story.append(sp(0.12))
+    story.append(sp(0.2))
+
+    story.append(sub("7.3  Impactos na Infraestrutura das Distribuidoras"))
+    story.append(p(
+        "O fim do S500 não é só uma mudança de produto — é uma operação de reconversão de "
+        "ativos logísticos. Bases que operavam volumes relevantes de S500 precisam de ação "
+        "estruturada nos próximos 2–3 anos.", BODY))
+    story.append(sp(0.15))
+
+    hdrs_inf = ["Componente", "Situação Atual (S500 ainda ativo)", "Após Fim do S500 (S10 exclusivo)",
+                "Ação Necessária", "Prazo"]
+    widths_inf = [2.5*cm, 3.8*cm, 3.8*cm, 3.5*cm, 1.4*cm]
+    rows_inf = [
+        ("Tancagem dedicada S500",
+         "Tanks separados para S500 em bases rurais/agrícolas. Produto diferente do S10.",
+         "Tanques ociosos ou mal aproveitados. S500 deixa de ser recebido do primário.",
+         "Limpeza e certificação para S10. Avaliar conversão para biodiesel B100 ou etanol.",
+         "2026–2028"),
+        ("Mistura biodiesel",
+         "S500 não entra na mistura obrigatória ANP. Mandatos B15+ são sobre S10.",
+         "100% da base diesel para mistura é S10. Simplificação operacional.",
+         "Nenhuma. Operação de mistura já é sobre S10 na maioria das bases.",
+         "Imediata"),
+        ("Contratos de fornecimento",
+         "Contratos com Petrobras, distribuidoras primárias ou importadores incluem volumes S500.",
+         "S500 sai do portfólio. Contratos precisam ser renegociados para S10 exclusivo.",
+         "Renegociar contratos com primário. Ajustar volumes S10 para cobrir demanda migrada do S500.",
+         "2026–2027"),
+        ("Logística e transporte",
+         "Caminhões-tanque operam com S10 e S500 em cargas separadas ou sequenciais.",
+         "Carga unificada S10. Eliminação do risco de contaminação cruzada S500/S10.",
+         "Atualizar procedimentos operacionais. Revisão de rotas e frequência de abastecimento.",
+         "2027"),
+        ("Laboratório e qualidade",
+         "Análise regular de enxofre para verificar produto (S10 vs. S500 vs. contaminado).",
+         "Apenas verificação de conformidade S10. Simplificação analítica.",
+         "Atualizar protocolo de qualidade. Garantir que tanques reconvertidos não contaminem S10.",
+         "2026–2027"),
+        ("Infraestrutura de recebimento",
+         "Braços/mangotes/plataformas de recebimento S500 em terminais rurais.",
+         "Toda infraestrutura recebe S10. Eliminação de etiquetagem dupla.",
+         "Padronização de braços e identificação visual. Sem custo adicional relevante.",
+         "2027"),
+        ("Terminais novos (Palmeirante, TEMAPE, Pecém, Santa Helena)",
+         "Projetados para S10 como produto principal. S500 não é premissa de projeto.",
+         "100% S10 desde o primeiro dia de operação. Sem necessidade de adaptação.",
+         "Nenhuma. Confirmação que projeto não inclui tancagem S500 nas especificações.",
+         "N/A"),
+    ]
+    story.append(make_table(hdrs_inf, rows_inf, widths_inf, small=True))
+    story.append(sp(0.3))
+
+    story.append(sub("7.4  Impacto Comercial por Segmento de Cliente"))
+    story.append(p(
+        "O S500 era o produto de referência para o agronegócio, construção civil e "
+        "embarcações fluviais. A migração forçada desses segmentos para S10 tem "
+        "implicações diretas de preço, operação de equipamento e relação comercial "
+        "das distribuidoras com seus maiores clientes industriais.", BODY))
+    story.append(sp(0.15))
+
+    hdrs_com = ["Segmento", "Volume S500 Estimado", "Impacto da Transição",
+                "Risco para a Distribuidora", "Oportunidade"]
+    widths_com = [2.5*cm, 2.5*cm, 4.0*cm, 3.5*cm, 4.5*cm]
+    rows_com = [
+        ("Agronegócio (tratores, colheitadeiras, irrigação)",
+         "~30–40% do total S500 nacional. MATOPIBA concentra maior parte.",
+         "S10 sobe ~3–8% vs. S500 na ponta. Motores antigos podem ter desgaste adicional por menor lubrificidade.",
+         "Perda de cliente que migre para concorrente com S500 em estoque. Reclamações de equipamento.",
+         "Reposicionamento como fornecedor de 'diesel limpo'. Vender S10 + aditivo lubrificante (produto de maior margem)."),
+        ("Construção civil e mineração",
+         "~20–25% do S500. Uso em escavadeiras, britadores, geradores.",
+         "Maquinário moderno já homologado para S10. Equipamentos mais antigos: verificar fabricante.",
+         "Gestão de frotas mistas (equipamentos antigos com S500, novos com S10).",
+         "Contrato de abastecimento direto para obras com S10. Pool de tanques móveis."),
+        ("Embarcações fluviais (hidrovias)",
+         "~15% S500. Tapajós, Madeira, Tocantins, Paraguai.",
+         "Motores navais certificados para S500. Migração exige homologação ou troca de motor.",
+         "Armadores que resistam à transição e busquem S500 importado.",
+         "Ser o primeiro a ofertar S10 certificado para uso embarcações fluviais. Diferenciação de produto."),
+        ("Geração distribuída (geradores estacionários)",
+         "~10–15% S500. Indústria, hospitais, condomínios.",
+         "Geradores modernos já usam S10. Modelos antigos precisam de adaptação de filtros.",
+         "Mínimo. Geradores são facilmente adaptáveis ou substituídos.",
+         "Oferta de S10 + contrato de manutenção de filtros. Parceria com assistência técnica."),
+        ("Setor pesqueiro (embarcações costeiras)",
+         "~5–10% S500. Uso por pescadores artesanais e industriais.",
+         "Alta dependência de preço. S10 encarece operação de pesca artesanal.",
+         "Pressão política para manutenção do S500 em zonas pesqueiras. ANP pode criar exceções temporárias.",
+         "Monitorar regulação ANP para setor pesqueiro. Posição como fornecedor de porto pesqueiro com S10."),
+    ]
+    story.append(make_table(hdrs_com, rows_com, widths_com, small=True))
+    story.append(sp(0.3))
+
+    story.append(sub("7.5  Interseção S10 × MATOPIBA × Terminais Novos"))
+    story.append(p(
+        "A coincidência temporal entre o fim do S500 e a inauguração de novos terminais "
+        "em regiões de alto consumo agrícola (Palmeirante/TO, TEMAPE Teresina/PI, "
+        "Santa Helena/GO, INPASA LEM/BA) cria uma janela estratégica única: "
+        "os terminais chegam prontos para S10 no exato momento em que o "
+        "S500 será descontinuado. Distribuidoras que posicionarem sua base logística "
+        "nesses novos terminais já nascem com a infraestrutura certa, sem legado.", BODY))
+    story.append(sp(0.15))
+
+    cruzamentos = [
+        "<b>Palmeirante/TO (Ultracargo, ✅ set/25):</b> 23.000 m³ projetados para diesel S10 + "
+        "gasolina + etanol. Região serve MATOPIBA com alta intensidade de uso agrícola. "
+        "Distribuidoras com posição no Palmeirante entram direto no S10 sem legado de tanques S500.",
+
+        "<b>TEMAPE Teresina/PI (op. 2028):</b> 27.000 m³ + ferrovia Transnordestina. Todo produto "
+        "que chegará por trilho (de Pecém/CE) será S10. PI deixa de ser abastecido por "
+        "caminhões com mix S500/S10 — passa a receber S10 ferroviário puro.",
+
+        "<b>INPASA Balsas/MA + LEM/BA:</b> as biorrefinarias produzem etanol milho mas também "
+        "consomem diesel S10 na colheita e processo industrial. São clientes finais de alto "
+        "volume de S10, e ao mesmo tempo produtores de etanol que disputam espaço logístico "
+        "nos mesmos terminais. Distribuidora pode vender S10 para a INPASA e comprar "
+        "etanol milho dela — relação comercial dupla.",
+
+        "<b>Granel Química Santa Helena/GO (→ 2026):</b> terminal rodo-ferroviário projetado para "
+        "biocombustíveis e combustíveis. Sem infraestrutura S500 no projeto. "
+        "GO sudoeste é região intensiva em agricultura mecanizada — principal usuário de "
+        "S500 que precisará migrar para S10. Terminal chega como facilitador da transição.",
+
+        "<b>Biodiesel B15→B25 sobre base S10:</b> toda a expansão do mandato de biodiesel "
+        "acontece sobre diesel S10 como base. O fim do S500 é, portanto, um pré-requisito "
+        "operacional para a escalada dos mandatos. Distribuidoras que ainda operem S500 em "
+        "2027+ terão dificuldade de conformidade com os mandatos de mistura ANP.",
+    ]
+    for c in cruzamentos:
+        story.append(Paragraph(f"▸  {c}", BULLET_S))
+        story.append(sp(0.12))
+    story.append(sp(0.25))
+
+    story.append(sub("7.6  Recomendações Práticas — O Que Fazer Agora"))
+    story.append(sp(0.1))
+
+    hdrs_rec = ["Ação", "Prioridade", "Prazo", "Detalhamento"]
+    widths_rec = [3.5*cm, 1.8*cm, 1.8*cm, 11.0*cm]
+    rows_rec = [
+        ("Inventário de tancagem S500 por base",
+         "CRÍTICA", "Imediata",
+         "Mapear volume e % da tancagem dedicada a S500. Identificar bases mais expostas. "
+         "Calcular custo de reconversão (limpeza, certificação) vs. custo de manutenção de dois produtos."),
+        ("Revisão de contratos de fornecimento primário",
+         "CRÍTICA", "6–12 meses",
+         "Renegociar volumes S500 com Petrobras ou distribuidoras primárias. "
+         "Antecipar migração de volumes para S10 antes que S500 saia de linha e deixe bases desabastecidas."),
+        ("Plano de migração de clientes rurais/agrícolas",
+         "ALTA", "6–18 meses",
+         "Identificar top 20% clientes por volume de S500. Comunicar transição. "
+         "Oferecer S10 + aditivo lubrificante como produto de substituição com valor agregado. "
+         "Evitar perda de cliente por falta de planejamento."),
+        ("Reconversão de tanques S500 → S10 ou B100",
+         "ALTA", "12–24 meses",
+         "Tanques S500 reconvertidos para S10 ampliam tancagem do produto que crescerá. "
+         "Alternativa: converter para B100 (biodiesel), cujo volume aumenta com B15→B20→B25. "
+         "Verificar compatibilidade de revestimento interno e selo ABNT."),
+        ("Posicionamento nos novos terminais",
+         "ALTA", "Imediata → 2027",
+         "Terminais novos (Palmeirante, Pecém, Santa Helena, TEMAPE) são 100% S10. "
+         "Garantir posição nesses terminais é garantir a infraestrutura S10 certa para o futuro. "
+         "Distribuidoras sem posição em bases legadas de S500 estão em vantagem — não precisam reconverter."),
+        ("Adequação do protocolo de qualidade",
+         "MÉDIA", "12 meses",
+         "Atualizar procedimentos de análise laboratorial para eliminar rotinas S500. "
+         "Reforçar verificação de contaminação cruzada durante o período de transição "
+         "(tanques que tiveram S500 e passam a receber S10 são risco de não-conformidade)."),
+        ("Comunicação regulatória e monitoramento ANP",
+         "MÉDIA", "Contínuo",
+         "Acompanhar publicações ANP sobre prazo definitivo de encerramento do S500. "
+         "Participar de audiências públicas. Ter jurídico mapeando impacto de resolução final. "
+         "Evitar ser pego de surpresa por decreto com prazo curto de adequação."),
+        ("Revisão de rentabilidade de rotas rurais",
+         "MÉDIA", "6–18 meses",
+         "Rotas atendidas hoje exclusivamente por S500 podem se tornar antieconômicas se "
+         "o volume migrar para S10 com margem menor ou se clientes rurais trocarem de fornecedor. "
+         "Reavaliar custo de atendimento vs. margem real por rota."),
+    ]
+    story.append(make_table(hdrs_rec, rows_rec, widths_rec, small=True))
+    story.append(sp(0.25))
+
+    story.append(sub("7.7  Síntese — S500 como Janela de Oportunidade, Não Só Ameaça"))
+    sintese = [
+        "<b>Simplificação logística:</b> um produto diesel no portfólio reduz complexidade operacional, "
+        "risco de contaminação, custo de laboratório e número de SKUs. Para distribuidoras com "
+        "operação diversificada, o fim do S500 é uma simplificação bem-vinda.",
+
+        "<b>Produto de maior valor:</b> S10 tem margem unitária melhor que S500 na maioria das regiões. "
+        "A migração de volumes S500 → S10 pode melhorar a rentabilidade bruta por litro, "
+        "especialmente em regiões onde o S500 era vendido com desconto para competir.",
+
+        "<b>Alinhamento com biocombustíveis:</b> a trajetória B15→B20→B25 é estrutural. "
+        "Quanto antes as bases estiverem 100% S10, mais elas estão prontas para escalar "
+        "o mandato de biodiesel sem complicação operacional.",
+
+        "<b>Novos terminais como catalisadores:</b> Palmeirante, TEMAPE, Pecém e Santa Helena chegam "
+        "no timing perfeito — 100% S10 no momento em que o mercado rural precisa migrar. "
+        "Distribuidoras posicionadas nesses terminais oferecem a solução ao cliente, "
+        "não o problema.",
+
+        "<b>Risco real — cliente rural sem alternativa preparada:</b> a maior ameaça é perder "
+        "clientes do agronegócio para distribuidoras que mantenham S500 em estoque ou "
+        "importação irregular por mais tempo. O timing da transição precisa ser gerenciado "
+        "com comunicação proativa, não reativa.",
+    ]
+    for s in sintese:
+        story.append(Paragraph(f"▸  {s}", BULLET_S))
+        story.append(sp(0.12))
+
+    story.append(PageBreak())
+    return story
+
+
 # ── FONTES ────────────────────────────────────────────────────────────────────
 def fontes():
     story = []
-    story += sec("FONTES CONSULTADAS", "7")
+    story += sec("FONTES CONSULTADAS", "8")
     story.append(sp(0.1))
 
     lista_fontes = [
@@ -935,6 +1215,7 @@ def build_story():
     story += bloco4()
     story += bloco5()
     story += bloco6()
+    story += bloco7()
     story += fontes()
     return story
 
