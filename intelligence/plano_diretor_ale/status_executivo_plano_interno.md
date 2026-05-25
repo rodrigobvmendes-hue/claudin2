@@ -1,39 +1,52 @@
 # Status Executivo do Plano Diretor ALE
 
 ## 1. Síntese do Plano Diretor ALE
-O plano interno da ALE foca em três frentes: consolidar pools de tancagem, diversificar fornecedores em praças críticas e monetizar capacidade ociosa. A governança interna também acompanha contratos de armazenagem e exposição a ToP, preservando a distinção entre dados internos e o mercado externo.
+O Plano Diretor interno é orientado por frentes estruturais de decisão: expansão e defesa de infraestrutura crítica; correção de gargalos em bases próprias; mitigação de dependências de terceiros; monetização e parcerias; riscos regulatórios; transição S500 para S10; e gestão de áreas de influência regional. A execução deve preservar a separação entre dados internos da ALE e informações de mercado externo.
 
-## 2. Projetos evoluídos
-- **Açailândia + LEM pool** (MA/BA): operação concluída com aquisição de 11,8% da Vibra em Açailândia. Existe um caminho de formalização junto à ANP e um plano de migração operacional de LEM.
-- **Goiânia - Nexta** (GO): em fase inicial, com proposta de Nexta de R$16/m³ e arrendamento de R$4MM/ano até 2033. A estratégia inclui swap interno S500 e renegociação de locador.
-- **Vitória - Atlântica / SPE** (ES): prospecção de pool com Atlântica e de modelo SPE com três majors para reduzir a dependência atual de Oiltank.
-- **Guarulhos+ mega-bundling** (SP): negociação ativa com quatro condôminas e potencial entrada de IPP para capturar valor de ociosidade.
+## 2. Frentes de decisão
+- **Expansão e defesa de infraestrutura crítica**: Pecém greenfield e Açailândia + LEM pool são prioridades que exigem alinhamento regulatório e comercial.
+- **Bases próprias com gargalos estruturais**: São José do Rio Preto apresenta déficit crítico e o Pool Ipiranga + Vibra + ALE está em holding. Betim requer revamp hidráulico e automação para destravar 90 mil m³/mês para 140 mil m³/mês.
+- **Dependência de terceiros**: Duque de Caxias permanece dependente de S10 e do contrato de cessão com Raízen. Vitória precisa reduzir exposição a Oiltanking. Goiânia precisa de soluções estruturais além da parceria Nexta.
+- **Monetização e parcerias**: Guarulhos+ é tratado como fortaleza estratégica, com interesse de INPASA, FS, DTC, Ipiranga, Nimofast, Midas e outras tradings. Santa Maria deve ser considerada uma alternativa comercial, sem CAPEX.
+- **Riscos regulatórios e transição S500/S10**: Cuiabá/Várzea Grande é tema regulatório a monitorar; o fim do S500 e a transição para S10 são riscos de longo prazo para bases, dutos e produtos marítimos.
+- **Áreas de influência regional**: Guamaré perde influência e deve ser monitorada; Brasília carece de opções de armazenagem e deve ser analisada por rentabilidade.
 
-## 3. Projetos novos
-- **Pecém greenfield** (CE): sondagem com DISLUB para proposta de greenfield com concessão de 25 anos. O projeto ainda está em fase inicial de avaliação e depende de alinhamento comercial e regulatório.
+## 3. Projetos evoluídos
+- **Açailândia + LEM pool** (MA/BA): operação consolidada com aquisição de 11,8% da Vibra em Açailândia. A formalização ANP e a migração operacional de LEM permanecem como próximo passo.
+- **Goiânia - Nexta** (GO): proposta inicial de R$16/m³ e arrendamento até 2033. Além disso, a frente exige análise de solução estrutural para dois tanques de 1.500 m³.
+- **Vitória - Atlântica / SPE** (ES): prospecção de pool e SPE para reduzir dependência do Oiltanking. A decisão deve priorizar qual combinação entrega maior segurança operacional.
+- **Guarulhos+ mega-bundling** (SP): negociação ativa com condôminas e IPP; a base é reconhecida internamente como oportunidade de monetização e parcerias.
 
-## 4. Projetos em holding
-- **Oiltanking / Vitória**: contrato de Oiltanking até 31/12/2029 está sob revisão estrutural, com foco em reduzir dependência e aumentar margem.
-- **Santos Brasil cessionária**: contrato relevante em São Luís vigora até fevereiro de 2028 e permanece sob atenção por sua exposição e valor.
-- **Contratos de armazenagem agregados**: a ALE mantém alto nível de ToP e despesas contratuais, o que exige monitoramento contínuo.
+## 4. Projetos novos
+- **Pecém greenfield** (CE): sondagem com DISLUB em curso. O estágio atual é de avaliação comercial e regulatória. A direção de Santa Maria permanece como alternativa de negociação, não como CAPEX.
 
-## 5. Decisões pendentes
-- Formalização ANP para o swap Açailândia/LEM.
-- Aprovação de NDA e renegociação de locador em Goiânia.
-- Definição de abordagem final para Vitória: Atlântica, SPE ou ambas.
-- Estrutura de acordos para o mega-bundling de Guarulhos, incluindo participação de IPP.
-- Avaliação e decisão sobre a proposta DISLUB para Pecém greenfield.
+## 5. Projetos em holding
+- **São José do Rio Preto**: déficit crítico de infraestrutura; alternativa Pool Ipiranga + Vibra + ALE em holding.
+- **Oiltanking / Vitória**: contrato em revisão até 31/12/2029; foco em reduzir dependência e ampliar margem.
+- **Santos Brasil cessionária**: contrato em São Luís até fevereiro de 2028, sob monitoramento de exposição.
+- **Contratos de armazenagem agregados**: alto nível de ToP e despesas de armazenagem requer revisão contínua.
 
-## 6. Riscos e dependências
-- Dependência regulatória da ANP para o swap de Açailândia/LEM.
-- Exposição ao contrato Oiltanking em Vitória e ao prazo de vencimento de contratos em Santos/São Luís.
-- Concentração de ToP em poucos polos, exigindo renegociações e revisão de custos.
-- Necessidade de aprovações de NDA para parcerias em Goiânia e Guarulhos.
-- Avaliação de modelo de concessão para Pecém, que pode afetar a viabilidade.
+## 6. Decisões pendentes
+- Formalização ANP do swap Açailândia/LEM.
+- Aprovação de termos de arrendamento e swap em Goiânia, incluindo a análise de dois tanques de 1.500 m³.
+- Definição estratégica em Vitória entre Atlântica, SPE ou combinação.
+- Aprovação do modelo de bundling em Guarulhos+ e definição de parceiros prioritários.
+- Validação da continuidade da sondagem Pecém greenfield.
+- Definição de roadmap para Duque de Caxias diante da dependência de S10 e da cessão de espaço com Raízen.
 
-## 7. Próximos passos por projeto
-- **Açailândia + LEM pool**: concluir formalização ANP e desenhar o plano operacional de migração de LEM.
-- **Goiânia - Nexta**: avançar com a proposta Nexta, renegociar contrato de arrendamento e validar termos do swap S500.
-- **Vitória - Atlântica / SPE**: definir se o foco será Atlântica, SPE ou combinação, e avançar nos termos de MOU.
-- **Guarulhos+ mega-bundling**: concluir o acordo com condôminas e decidir o papel do IPP.
-- **Pecém greenfield**: validar a proposta DISLUB, definir parâmetros de concessão e aprovar o estudo de viabilidade.
+## 7. Riscos e dependências
+- **ANP** para o swap Açailândia/LEM.
+- **Contrato Raízen** e dependência de S10 em Duque de Caxias.
+- **Oiltanking** em Vitória e sua expiração como risco de concentração.
+- **Consulta regulatória** de Cuiabá/Várzea Grande e exigência de tancagem própria em Mato Grosso.
+- **Transição S500/S10**: impacto em dutos, bases e produto marítimo.
+- **Guamaré**: perda de área de influência e exposição a movimentos de origens externas.
+- **Brasília**: ausência de opções relevantes de armazenagem.
+
+## 8. Próximos passos por frente
+- **Infraestrutura crítica**: avançar a formalização ANP de Açailândia/LEM e validar Pecém greenfield com DISLUB.
+- **Bases próprias com gargalos**: priorizar ação estrutural em São José do Rio Preto e projeto de revamp/automação em Betim.
+- **Dependência de terceiros**: estruturar alternativas para Duque de Caxias e Vitória, mantendo Goiânia alinhada à solução de tanque.
+- **Monetização e parcerias**: consolidar a tese de Guarulhos+ como fortaleza estratégica e tratar Santa Maria como alternativa comercial.
+- **Regulação**: monitorar Cuiabá/Várzea Grande e o calendário de transição S500 para S10.
+- **Área de influência**: mapear Guamaré e Brasília como temas de rentabilidade e competição.

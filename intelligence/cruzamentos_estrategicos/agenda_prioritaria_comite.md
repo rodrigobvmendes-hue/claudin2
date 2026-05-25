@@ -1,72 +1,47 @@
 # Agenda Prioritária para o Comitê
 
-## 1. Projetos que devem ir ao comitê primeiro
-- **Pecém / CIPP**
-- **Açailândia / LEM**
-- **Vitória - Atlântica / SPE**
-- **Goiânia - Nexta**
-- **Guarulhos+ mega-bundling**
-- **Pecém greenfield**
+## 1. Frentes estruturais de decisão
+- **Expansão e defesa de infraestrutura crítica**: Pecém / CIPP, Açailândia / LEM.
+- **Bases próprias com gargalos estruturais**: São José do Rio Preto, Duque de Caxias, Betim, Brasília.
+- **Dependência de terceiros**: Vitória / Oiltanking, Duque de Caxias / Raízen, Goiânia / Nexta, Guamaré.
+- **Monetização e parcerias**: Guarulhos+ mega-bundling e Santa Maria como alternativa comercial.
+- **Riscos regulatórios**: Cuiabá / Várzea Grande e transição S500 -> S10.
 
 ## 2. Decisão requerida
-- **Pecém / CIPP**: aprovar a avaliação de alinhamento entre o projeto público e a iniciativa interna de Pecém.
-- **Açailândia / LEM**: liberar a formalização ANP do swap e autorizar a execução operacional do pool.
-- **Vitória - Atlântica / SPE**: decidir se avançar com Atlântica, SPE ou ambas para reduzir exposição a Oiltanking.
-- **Goiânia - Nexta**: autorizar a negociação dos termos comerciais de arrendamento e do swap interno S500.
-- **Guarulhos+ mega-bundling**: aprovar o formato do acordo de bundling e os condôminos prioritários.
-- **Pecém greenfield**: validar a continuidade da sondagem DISLUB e a modelagem de concessão.
+- **Infraestrutura crítica**: aprovar a agenda de formalização ANP para Açailândia / LEM e a continuidade da sondagem Pecém greenfield.
+- **Gargalos em bases próprias**: autorizar ação estrutural para São José do Rio Preto e plano de revamp/automação em Betim.
+- **Dependência de terceiros**: decidir a alternativa de Vitória (Atlântica vs SPE) e os termos para Duque de Caxias e Goiânia / Nexta.
+- **Monetização e parcerias**: autorizar o modelo de bundling em Guarulhos+ e manter Santa Maria como alternativa comercial sem CAPEX.
+- **Risco regulatório**: validar o acompanhamento de Cuiabá / Várzea Grande e da transição S500 -> S10.
 
 ## 3. Racional estratégico
-- **Pecém / CIPP**
-  - Fato: mercado posiciona Pecém como hub de tancagem estratégico e H2V.
-  - Dado normalizado: há convergência entre a demanda pública por Pecém e a iniciativa interna de greenfield.
-  - Análise derivada: decisão rápida aumenta a chance de capturar valor de um polo prioritário no CE.
-
-- **Açailândia / LEM**
-  - Fato: existe operação já evoluída e swap em discussão com ANP.
-  - Dado normalizado: o corredor MATOPIBA é reconhecido como prioridade de movimentação de etanol e combustíveis.
-  - Análise derivada: formalização do swap consolida a posição competitiva da ALE na região.
-
-- **Vitória - Atlântica / SPE**
-  - Fato: há exposição interna a Oiltanking e prospecção de alternativas.
-  - Dado normalizado: diversificação de fornecedor é necessária para reduzir risco de mono-fornecedor.
-  - Análise derivada: decisão no comitê define se a estratégia será de ativo próprio (Atlântica), cliente SPE ou dupla abordagem.
-
-- **Goiânia - Nexta**
-  - Fato: proposta Nexta de R$16/m³ e arrendamento até 2033 está em fase inicial.
-  - Dado normalizado: GO é um eixo relevante para etanol de milho e base rodoviária.
-  - Análise derivada: a autorização abre caminho para capturar volume e melhorar a economia do ativo.
-
-- **Guarulhos+ mega-bundling**
-  - Fato: há negociação ativa com quatro condôminas e interesse de IPP.
-  - Dado normalizado: capacidade ociosa em Guarulhos é um ativo que pode ser monetizado.
-  - Análise derivada: aprovação do modelo de bundling é crítica para transformação em receita.
-
-- **Pecém greenfield**
-  - Fato: sondagem DISLUB está em andamento.
-  - Dado normalizado: o projeto interno ainda está em fase de avaliação.
-  - Análise derivada: manter a investigação permite alinhar a ALE ao movimento de mercado em Pecém.
+- **Fato**: há projetos internos avançados e bases com restrições operacionais e de contrato.
+- **Dado normalizado**: Santa Maria é uma alternativa comercial, não um projeto CAPEX; Itajaí segue como solução greenfield com foco Grupo Ávila; Guarulhos+ é uma fortaleza estratégica.
+- **Análise derivada**: priorizar frentes estruturais aumenta a resistência do portfólio e evita decisões descontínuas por projeto.
 
 ## 4. Risco de postergação
-- Postergar a decisão do swap **Açailândia / LEM** pode impedir a consolidação do pool no curto prazo.
-- Adiar a definição da estratégia em **Vitória** mantém a ALE vulnerável ao contrato Oiltanking.
-- Demorar a aprovar os termos de **Goiânia - Nexta** compromete a captura do volume do mercado GO.
-- Atrasar a deliberação sobre **Guarulhos+** reduz a chance de monetizar capacidade ociosa.
-- Não avançar em **Pecém greenfield** pode descentralizar a ALE do movimento público de Pecém.
+- **Açailândia / LEM**: atraso reduz a consolidação do pool no corredor MATOPIBA.
+- **Vitória**: postergação mantém dependência de Oiltanking e restringe margem.
+- **Goiânia / Nexta**: demora compromete captura de volume e implementação estrutural.
+- **Guarulhos+**: atraso reduz a janela de monetização enquanto players mantêm interesse.
+- **São José do Rio Preto**: sem ação, o déficit crítico permanece em holding.
+- **Transição S500 -> S10**: ignorar o tema pode levar a decisões reativas sobre dutos e produto marítimo.
 
 ## 5. Dependências críticas
-- **Açailândia / LEM**: formalização ANP do swap.
-- **Vitória - Atlântica / SPE**: aprovação de modelagem de pool versus SPE.
-- **Goiânia - Nexta**: alinhamento com locador e aprovação do swap S500.
-- **Guarulhos+ mega-bundling**: acordo com condôminas e definição do papel do IPP.
-- **Pecém greenfield**: avanço da proposta DISLUB e definição de concessão.
+- Formalização ANP para **Açailândia / LEM**.
+- Contrato de cessão de espaço e duto em **Duque de Caxias**.
+- Definição de modelo de **Vitória** (Atlântica vs SPE).
+- Acordo de condôminas e IPP em **Guarulhos+**.
+- Termos do arrendamento e a solução de tanques de **Goiânia / Nexta**.
+- Mecanismo regulatório para **Cuiabá / Várzea Grande** e o cronograma de transição S500 -> S10.
 
 ## 6. Próximo passo objetivo
-- Submeter ao comitê uma decisão estruturada para **Açailândia / LEM** com critérios de aprovação ANP.
-- Apresentar opções claras para **Vitória**: Atlântica, SPE ou ambas.
-- Levar ao comitê os termos comerciais básicos de **Goiânia - Nexta**.
-- Definir no comitê o escopo de **Guarulhos+ mega-bundling** e o pacote de condôminas.
-- Validar no comitê o status da sondagem **Pecém greenfield** e a próxima fase de diligência.
+- Levar ao comitê proposta de formalização ANP para **Açailândia / LEM**.
+- Colocar à votação ação estrutural para **São José do Rio Preto**.
+- Apresentar opções de Vitória entre **Atlântica** e **SPE**.
+- Submeter o modelo de **Guarulhos+ mega-bundling** e os parceiros prioritários.
+- Incluir na pauta a continuidade do monitoramento de **Pecém greenfield** e de **Santa Maria** como alternativa comercial.
+- Registrar como item de acompanhamento a transição **S500 -> S10**.
 
 ## 7. Versão forte da agenda
-Esta agenda foca em decisões imediatas de governança para preservar vantagem competitiva. O comitê deve priorizar a formalização do swap **Açailândia / LEM**, a definição da estratégia de **Vitória**, a autorização de **Goiânia - Nexta**, a estruturação do **Guarulhos+ mega-bundling** e a continuidade da sondagem **Pecém greenfield**. As decisões devem ser tomadas em um ciclo curto para evitar perda de vantagem em projetos que já têm sinais claros de urgência e risco de postergação.
+A agenda deve ser governada por frentes e não por projeto isolado. O comitê precisa decidir agora sobre resiliência de bases críticas, dependência de terceiros, monetização de ativos ociosos e vigilância regulatória. Este documento é confidencial e destinado a alinhar a direção estratégica interna da ALE.
