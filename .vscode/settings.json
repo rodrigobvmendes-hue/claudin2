@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/claudin2 && python3 - <<'PY'\nfrom pptx import Presentation\nimport os\npath='docs/templetes/Plano_Diretor_Infra_Update_Jun26_vfinal\\.pptx'\nprs=Presentation\\(path\\)\nprint\\('slides', len\\(prs\\.slides\\)\\)\nprint\\('layouts', len\\(prs\\.slide_layouts\\)\\)\nfor i,layout in enumerate\\(prs\\.slide_layouts\\):\n    print\\('layout', i, getattr\\(layout,'name', 'Unnamed'\\)\\)\n    for shape in layout\\.shapes:\n        if shape\\.name:\n            print\\('  shape', shape\\.name, shape\\.shape_type, shape\\.text if shape\\.has_text_frame else ''\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "unzip": true
+    }
+}
