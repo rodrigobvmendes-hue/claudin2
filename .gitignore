@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Common Python runtime files
+pyvenv.cfg
+python
+python3
+python3.12
+lib64/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
